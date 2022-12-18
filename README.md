@@ -1,5 +1,5 @@
 # surfs_up
-Module 9 sqlite
+Module 9 sqlite <br />
 Please see the Module9Challenge folder to find the files for this challenge.
 
 ### Overview
