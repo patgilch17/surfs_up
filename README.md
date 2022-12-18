@@ -1,5 +1,6 @@
 # surfs_up
 Module 9 sqlite
+Please see the Module9Challenge folder to find the files for this challenge.
 
 ### Overview
 The intent of this analysis is to look at statistics for the temperature data from the island of O'ahu from some key months.  The concern has been that the weather would not allow for a surf and ice cream shop year round.  So in an attempt to address those concerns we pulled the statistics for the months of June and Decemeber or in other words, the beginning of Summer and the beginning of Winter.
